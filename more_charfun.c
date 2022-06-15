@@ -28,6 +28,7 @@ len2 = _strlen(s2);
 	}
 	return (cmp);
 }
+
 /**
  * _isalpha - Check if Alphabtic
  *@c: Character

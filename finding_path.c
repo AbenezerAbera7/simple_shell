@@ -29,6 +29,7 @@ int path_cmd(char **cmd)
 
 	return (1);
 }
+
 /**
  * build - Build Command
  * @token: Excutable Command

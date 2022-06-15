@@ -35,6 +35,7 @@ int history_dis(__attribute__((unused))char **c, __attribute__((unused))int s)
 	fclose(fp);
 	return (0);
 }
+
 /**
  * print_echo - Excute Normal Echo
  * @cmd: Parsed Command

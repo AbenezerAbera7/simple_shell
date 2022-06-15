@@ -6,7 +6,6 @@
  * @argv:Argument Value
  * Return: Exit Value By Status
  */
-
 int main(__attribute__((unused)) int argc, char **argv)
 {
 	char *input, **cmd;

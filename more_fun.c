@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * _strcpy - Copie Source To Destination Char
  * @dest:Destination
@@ -18,6 +19,7 @@ i = 0;
 dest[i] = '\0';
 return (dest);
 }
+
 /**
  * _strcat - Concat Two String
  * @dest:First String

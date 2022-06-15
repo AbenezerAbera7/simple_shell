@@ -6,7 +6,6 @@
  * @er:statue of last Excute
  * Return: -1 Fail 0 Succes (Return :Excute Builtin)
  */
-
 int handle_builtin(char **cmd, int er)
 {
 	 bul_t bil[] = {
@@ -29,6 +28,7 @@ int handle_builtin(char **cmd, int er)
 	}
 	return (-1);
 }
+
 /**
  * check_cmd - Excute Simple Shell Command (Fork,Wait,Excute)
  *

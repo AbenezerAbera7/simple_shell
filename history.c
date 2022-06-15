@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * history - Fill File By User Input
  * @input: User Input
@@ -25,6 +26,7 @@ int history(char *input)
 	}
 	return (1);
 }
+
 /**
  * free_env - Free Enviroment Variable Array
  * @env:  Environment variables.
