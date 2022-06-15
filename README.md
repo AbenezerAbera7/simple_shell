@@ -1,4 +1,4 @@
-**Creating Our Simple Shell.
+**Creating Our Own Simple Shell.
 ============================
 - This repository includes our version of simple shell.
 Here we will apply the knowledge that we have acquired during the learning of the programming language C.
